@@ -1,0 +1,1229 @@
+fileFormatVersion: 2
+guid: a8ba7a74f595545c5846b638c0aa7a7a
+labels:
+- Character
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Armature
+    100002: //RootNode
+    100004: Lights
+    100006: VisualSceneNode1
+    100008: VisualSceneNode10
+    100010: VisualSceneNode11
+    100012: VisualSceneNode12
+    100014: VisualSceneNode13
+    100016: VisualSceneNode14
+    100018: VisualSceneNode15
+    100020: VisualSceneNode16
+    100022: VisualSceneNode17
+    100024: VisualSceneNode18
+    100026: VisualSceneNode19
+    100028: VisualSceneNode2
+    100030: VisualSceneNode20
+    100032: VisualSceneNode21
+    100034: VisualSceneNode22
+    100036: VisualSceneNode23
+    100038: VisualSceneNode24
+    100040: VisualSceneNode25
+    100042: VisualSceneNode26
+    100044: VisualSceneNode27
+    100046: VisualSceneNode28
+    100048: VisualSceneNode29
+    100050: VisualSceneNode3
+    100052: VisualSceneNode30
+    100054: VisualSceneNode31
+    100056: VisualSceneNode32
+    100058: VisualSceneNode33
+    100060: VisualSceneNode34
+    100062: VisualSceneNode35
+    100064: VisualSceneNode36
+    100066: VisualSceneNode37
+    100068: VisualSceneNode38
+    100070: VisualSceneNode39
+    100072: VisualSceneNode4
+    100074: VisualSceneNode40
+    100076: VisualSceneNode41
+    100078: VisualSceneNode42
+    100080: VisualSceneNode43
+    100082: VisualSceneNode44
+    100084: VisualSceneNode45
+    100086: VisualSceneNode46
+    100088: VisualSceneNode47
+    100090: VisualSceneNode48
+    100092: VisualSceneNode49
+    100094: VisualSceneNode5
+    100096: VisualSceneNode50
+    100098: VisualSceneNode51
+    100100: VisualSceneNode52
+    100102: VisualSceneNode53
+    100104: VisualSceneNode54
+    100106: VisualSceneNode55
+    100108: VisualSceneNode56
+    100110: VisualSceneNode57
+    100112: VisualSceneNode58
+    100114: VisualSceneNode59
+    100116: VisualSceneNode6
+    100118: VisualSceneNode60
+    100120: VisualSceneNode61
+    100122: VisualSceneNode7
+    100124: VisualSceneNode8
+    100126: VisualSceneNode9
+    400000: Armature
+    400002: //RootNode
+    400004: Lights
+    400006: VisualSceneNode1
+    400008: VisualSceneNode10
+    400010: VisualSceneNode11
+    400012: VisualSceneNode12
+    400014: VisualSceneNode13
+    400016: VisualSceneNode14
+    400018: VisualSceneNode15
+    400020: VisualSceneNode16
+    400022: VisualSceneNode17
+    400024: VisualSceneNode18
+    400026: VisualSceneNode19
+    400028: VisualSceneNode2
+    400030: VisualSceneNode20
+    400032: VisualSceneNode21
+    400034: VisualSceneNode22
+    400036: VisualSceneNode23
+    400038: VisualSceneNode24
+    400040: VisualSceneNode25
+    400042: VisualSceneNode26
+    400044: VisualSceneNode27
+    400046: VisualSceneNode28
+    400048: VisualSceneNode29
+    400050: VisualSceneNode3
+    400052: VisualSceneNode30
+    400054: VisualSceneNode31
+    400056: VisualSceneNode32
+    400058: VisualSceneNode33
+    400060: VisualSceneNode34
+    400062: VisualSceneNode35
+    400064: VisualSceneNode36
+    400066: VisualSceneNode37
+    400068: VisualSceneNode38
+    400070: VisualSceneNode39
+    400072: VisualSceneNode4
+    400074: VisualSceneNode40
+    400076: VisualSceneNode41
+    400078: VisualSceneNode42
+    400080: VisualSceneNode43
+    400082: VisualSceneNode44
+    400084: VisualSceneNode45
+    400086: VisualSceneNode46
+    400088: VisualSceneNode47
+    400090: VisualSceneNode48
+    400092: VisualSceneNode49
+    400094: VisualSceneNode5
+    400096: VisualSceneNode50
+    400098: VisualSceneNode51
+    400100: VisualSceneNode52
+    400102: VisualSceneNode53
+    400104: VisualSceneNode54
+    400106: VisualSceneNode55
+    400108: VisualSceneNode56
+    400110: VisualSceneNode57
+    400112: VisualSceneNode58
+    400114: VisualSceneNode59
+    400116: VisualSceneNode6
+    400118: VisualSceneNode60
+    400120: VisualSceneNode61
+    400122: VisualSceneNode7
+    400124: VisualSceneNode8
+    400126: VisualSceneNode9
+    4300000: VisualSceneNode61
+    7400000: Default Take
+    7400002: Default Take0
+    9500000: //RootNode
+    13700000: VisualSceneNode61
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 249
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/VisualSceneNode1
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode3
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode3/VisualSceneNode4
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode3/VisualSceneNode4/VisualSceneNode5
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode3/VisualSceneNode4/VisualSceneNode5/VisualSceneNode6
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode3/VisualSceneNode4/VisualSceneNode5/VisualSceneNode6/VisualSceneNode7
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode3/VisualSceneNode8
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode3/VisualSceneNode8/VisualSceneNode9
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode3/VisualSceneNode8/VisualSceneNode9/VisualSceneNode10
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode3/VisualSceneNode8/VisualSceneNode9/VisualSceneNode10/VisualSceneNode11
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode15
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode15/VisualSceneNode16
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode15/VisualSceneNode16/VisualSceneNode17
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode15/VisualSceneNode16/VisualSceneNode17/VisualSceneNode18
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode15/VisualSceneNode16/VisualSceneNode17/VisualSceneNode18/VisualSceneNode19
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode15/VisualSceneNode16/VisualSceneNode17/VisualSceneNode18/VisualSceneNode19/VisualSceneNode20
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode15/VisualSceneNode16/VisualSceneNode17/VisualSceneNode18/VisualSceneNode19/VisualSceneNode20/VisualSceneNode21
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode15/VisualSceneNode16/VisualSceneNode17/VisualSceneNode18/VisualSceneNode22
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode15/VisualSceneNode16/VisualSceneNode17/VisualSceneNode18/VisualSceneNode22/VisualSceneNode23
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode15/VisualSceneNode16/VisualSceneNode17/VisualSceneNode18/VisualSceneNode22/VisualSceneNode23/VisualSceneNode24
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode15/VisualSceneNode16/VisualSceneNode17/VisualSceneNode18/VisualSceneNode25
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode15/VisualSceneNode16/VisualSceneNode17/VisualSceneNode18/VisualSceneNode25/VisualSceneNode26
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode15/VisualSceneNode16/VisualSceneNode17/VisualSceneNode18/VisualSceneNode25/VisualSceneNode26/VisualSceneNode27
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode15/VisualSceneNode16/VisualSceneNode17/VisualSceneNode18/VisualSceneNode28
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode15/VisualSceneNode16/VisualSceneNode17/VisualSceneNode18/VisualSceneNode28/VisualSceneNode29
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode15/VisualSceneNode16/VisualSceneNode17/VisualSceneNode18/VisualSceneNode28/VisualSceneNode29/VisualSceneNode30
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode15/VisualSceneNode16/VisualSceneNode17/VisualSceneNode18/VisualSceneNode31
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode15/VisualSceneNode16/VisualSceneNode17/VisualSceneNode18/VisualSceneNode31/VisualSceneNode32
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode15/VisualSceneNode16/VisualSceneNode17/VisualSceneNode18/VisualSceneNode31/VisualSceneNode32/VisualSceneNode33
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode15/VisualSceneNode16/VisualSceneNode17/VisualSceneNode18/VisualSceneNode34
+        weight: 0
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode15/VisualSceneNode16/VisualSceneNode17/VisualSceneNode35
+        weight: 0
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode15/VisualSceneNode16/VisualSceneNode36
+        weight: 0
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode37
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode37/VisualSceneNode38
+        weight: 0
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode39
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode39/VisualSceneNode40
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode39/VisualSceneNode40/VisualSceneNode41
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode39/VisualSceneNode40/VisualSceneNode41/VisualSceneNode42
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode39/VisualSceneNode40/VisualSceneNode41/VisualSceneNode42/VisualSceneNode43
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode39/VisualSceneNode40/VisualSceneNode41/VisualSceneNode42/VisualSceneNode43/VisualSceneNode44
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode39/VisualSceneNode40/VisualSceneNode41/VisualSceneNode42/VisualSceneNode43/VisualSceneNode44/VisualSceneNode45
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode39/VisualSceneNode40/VisualSceneNode41/VisualSceneNode42/VisualSceneNode46
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode39/VisualSceneNode40/VisualSceneNode41/VisualSceneNode42/VisualSceneNode46/VisualSceneNode47
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode39/VisualSceneNode40/VisualSceneNode41/VisualSceneNode42/VisualSceneNode46/VisualSceneNode47/VisualSceneNode48
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode39/VisualSceneNode40/VisualSceneNode41/VisualSceneNode42/VisualSceneNode49
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode39/VisualSceneNode40/VisualSceneNode41/VisualSceneNode42/VisualSceneNode49/VisualSceneNode50
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode39/VisualSceneNode40/VisualSceneNode41/VisualSceneNode42/VisualSceneNode49/VisualSceneNode50/VisualSceneNode51
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode39/VisualSceneNode40/VisualSceneNode41/VisualSceneNode42/VisualSceneNode52
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode39/VisualSceneNode40/VisualSceneNode41/VisualSceneNode42/VisualSceneNode52/VisualSceneNode53
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode39/VisualSceneNode40/VisualSceneNode41/VisualSceneNode42/VisualSceneNode52/VisualSceneNode53/VisualSceneNode54
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode39/VisualSceneNode40/VisualSceneNode41/VisualSceneNode42/VisualSceneNode55
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode39/VisualSceneNode40/VisualSceneNode41/VisualSceneNode42/VisualSceneNode55/VisualSceneNode56
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode39/VisualSceneNode40/VisualSceneNode41/VisualSceneNode42/VisualSceneNode55/VisualSceneNode56/VisualSceneNode57
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode39/VisualSceneNode40/VisualSceneNode41/VisualSceneNode42/VisualSceneNode58
+        weight: 0
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode39/VisualSceneNode40/VisualSceneNode41/VisualSceneNode59
+        weight: 0
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode39/VisualSceneNode40/VisualSceneNode60
+        weight: 0
+      - path: Lights
+        weight: 0
+      - path: VisualSceneNode61
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Default Take0
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 249
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/VisualSceneNode1
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode3
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode3/VisualSceneNode4
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode3/VisualSceneNode4/VisualSceneNode5
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode3/VisualSceneNode4/VisualSceneNode5/VisualSceneNode6
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode3/VisualSceneNode4/VisualSceneNode5/VisualSceneNode6/VisualSceneNode7
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode3/VisualSceneNode8
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode3/VisualSceneNode8/VisualSceneNode9
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode3/VisualSceneNode8/VisualSceneNode9/VisualSceneNode10
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode3/VisualSceneNode8/VisualSceneNode9/VisualSceneNode10/VisualSceneNode11
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode15
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode15/VisualSceneNode16
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode15/VisualSceneNode16/VisualSceneNode17
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode15/VisualSceneNode16/VisualSceneNode17/VisualSceneNode18
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode15/VisualSceneNode16/VisualSceneNode17/VisualSceneNode18/VisualSceneNode19
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode15/VisualSceneNode16/VisualSceneNode17/VisualSceneNode18/VisualSceneNode19/VisualSceneNode20
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode15/VisualSceneNode16/VisualSceneNode17/VisualSceneNode18/VisualSceneNode19/VisualSceneNode20/VisualSceneNode21
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode15/VisualSceneNode16/VisualSceneNode17/VisualSceneNode18/VisualSceneNode22
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode15/VisualSceneNode16/VisualSceneNode17/VisualSceneNode18/VisualSceneNode22/VisualSceneNode23
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode15/VisualSceneNode16/VisualSceneNode17/VisualSceneNode18/VisualSceneNode22/VisualSceneNode23/VisualSceneNode24
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode15/VisualSceneNode16/VisualSceneNode17/VisualSceneNode18/VisualSceneNode25
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode15/VisualSceneNode16/VisualSceneNode17/VisualSceneNode18/VisualSceneNode25/VisualSceneNode26
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode15/VisualSceneNode16/VisualSceneNode17/VisualSceneNode18/VisualSceneNode25/VisualSceneNode26/VisualSceneNode27
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode15/VisualSceneNode16/VisualSceneNode17/VisualSceneNode18/VisualSceneNode28
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode15/VisualSceneNode16/VisualSceneNode17/VisualSceneNode18/VisualSceneNode28/VisualSceneNode29
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode15/VisualSceneNode16/VisualSceneNode17/VisualSceneNode18/VisualSceneNode28/VisualSceneNode29/VisualSceneNode30
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode15/VisualSceneNode16/VisualSceneNode17/VisualSceneNode18/VisualSceneNode31
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode15/VisualSceneNode16/VisualSceneNode17/VisualSceneNode18/VisualSceneNode31/VisualSceneNode32
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode15/VisualSceneNode16/VisualSceneNode17/VisualSceneNode18/VisualSceneNode31/VisualSceneNode32/VisualSceneNode33
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode15/VisualSceneNode16/VisualSceneNode17/VisualSceneNode18/VisualSceneNode34
+        weight: 0
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode15/VisualSceneNode16/VisualSceneNode17/VisualSceneNode35
+        weight: 0
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode15/VisualSceneNode16/VisualSceneNode36
+        weight: 0
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode37
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode37/VisualSceneNode38
+        weight: 0
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode39
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode39/VisualSceneNode40
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode39/VisualSceneNode40/VisualSceneNode41
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode39/VisualSceneNode40/VisualSceneNode41/VisualSceneNode42
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode39/VisualSceneNode40/VisualSceneNode41/VisualSceneNode42/VisualSceneNode43
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode39/VisualSceneNode40/VisualSceneNode41/VisualSceneNode42/VisualSceneNode43/VisualSceneNode44
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode39/VisualSceneNode40/VisualSceneNode41/VisualSceneNode42/VisualSceneNode43/VisualSceneNode44/VisualSceneNode45
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode39/VisualSceneNode40/VisualSceneNode41/VisualSceneNode42/VisualSceneNode46
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode39/VisualSceneNode40/VisualSceneNode41/VisualSceneNode42/VisualSceneNode46/VisualSceneNode47
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode39/VisualSceneNode40/VisualSceneNode41/VisualSceneNode42/VisualSceneNode46/VisualSceneNode47/VisualSceneNode48
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode39/VisualSceneNode40/VisualSceneNode41/VisualSceneNode42/VisualSceneNode49
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode39/VisualSceneNode40/VisualSceneNode41/VisualSceneNode42/VisualSceneNode49/VisualSceneNode50
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode39/VisualSceneNode40/VisualSceneNode41/VisualSceneNode42/VisualSceneNode49/VisualSceneNode50/VisualSceneNode51
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode39/VisualSceneNode40/VisualSceneNode41/VisualSceneNode42/VisualSceneNode52
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode39/VisualSceneNode40/VisualSceneNode41/VisualSceneNode42/VisualSceneNode52/VisualSceneNode53
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode39/VisualSceneNode40/VisualSceneNode41/VisualSceneNode42/VisualSceneNode52/VisualSceneNode53/VisualSceneNode54
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode39/VisualSceneNode40/VisualSceneNode41/VisualSceneNode42/VisualSceneNode55
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode39/VisualSceneNode40/VisualSceneNode41/VisualSceneNode42/VisualSceneNode55/VisualSceneNode56
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode39/VisualSceneNode40/VisualSceneNode41/VisualSceneNode42/VisualSceneNode55/VisualSceneNode56/VisualSceneNode57
+        weight: 1
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode39/VisualSceneNode40/VisualSceneNode41/VisualSceneNode42/VisualSceneNode58
+        weight: 0
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode39/VisualSceneNode40/VisualSceneNode41/VisualSceneNode59
+        weight: 0
+      - path: Armature/VisualSceneNode1/VisualSceneNode2/VisualSceneNode12/VisualSceneNode13/VisualSceneNode14/VisualSceneNode39/VisualSceneNode40/VisualSceneNode60
+        weight: 0
+      - path: Lights
+        weight: 0
+      - path: VisualSceneNode61
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: VisualSceneNode2
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode4
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: -60, y: -60, z: -90}
+        max: {x: 60, y: 60, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode8
+      humanName: RightUpperLeg
+      limit:
+        min: {x: -60, y: -60, z: -90}
+        max: {x: 60, y: 60, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode5
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode9
+      humanName: RightLowerLeg
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode6
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: -30, z: -50}
+        max: {x: 0, y: 30, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode10
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: -30, z: -50}
+        max: {x: 0, y: 30, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode12
+      humanName: Spine
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode13
+      humanName: Chest
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode15
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: -15, z: -15}
+        max: {x: 0, y: 15, z: 30}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode39
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: -15, z: -15}
+        max: {x: 0, y: 15, z: 30}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode16
+      humanName: LeftUpperArm
+      limit:
+        min: {x: -90, y: -100, z: -60}
+        max: {x: 90, y: 100, z: 100}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode40
+      humanName: RightUpperArm
+      limit:
+        min: {x: -90, y: -100, z: -60}
+        max: {x: 90, y: 100, z: 100}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode17
+      humanName: LeftLowerArm
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode41
+      humanName: RightLowerArm
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode18
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: -40, z: -80}
+        max: {x: 0, y: 40, z: 80}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode42
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: -40, z: -80}
+        max: {x: 0, y: 40, z: 80}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode7
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: -50}
+        max: {x: 0, y: 0, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode11
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: -50}
+        max: {x: 0, y: 0, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode31
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: -25, z: -20}
+        max: {x: 0, y: 25, z: 20}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode32
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -40}
+        max: {x: 0, y: 0, z: 35}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode33
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: -40}
+        max: {x: 0, y: 0, z: 35}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode19
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode20
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode21
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode22
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: -7.5, z: -50}
+        max: {x: 0, y: 7.5, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode23
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode24
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode28
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: -7.5, z: -50}
+        max: {x: 0, y: 7.5, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode29
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode30
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode25
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode26
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode27
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode55
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: -25, z: -20}
+        max: {x: 0, y: 25, z: 20}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode56
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -40}
+        max: {x: 0, y: 0, z: 35}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode57
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: -40}
+        max: {x: 0, y: 0, z: 35}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode43
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode44
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode45
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode46
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: -7.5, z: -50}
+        max: {x: 0, y: 7.5, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode47
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode48
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode52
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: -7.5, z: -50}
+        max: {x: 0, y: 7.5, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode53
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode54
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode49
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode50
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode51
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: VisualSceneNode14
+      humanName: Neck
+      limit:
+        min: {x: -8.06452179, y: -8.06451702, z: -14.5161285}
+        max: {x: 20.3225803, y: 10.9677458, z: 11.6129036}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 1
+    - boneName: VisualSceneNode37
+      humanName: Head
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: captain atom hero109(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Armature
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106709}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: VisualSceneNode1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: .491768748, y: .491768122, z: -.508098602, w: .508098006}
+      scale: {x: .999999881, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: VisualSceneNode2
+      position: {x: -2.60995531, y: 1.97046148e-07, z: -7.4505806e-09}
+      rotation: {x: 1.23286992e-09, y: .0163298529, z: -2.94383158e-18, w: .999866664}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: VisualSceneNode3
+      position: {x: 1.51442997e-10, y: 1.40000003e-14, z: 2.81544299e-09}
+      rotation: {x: 0, y: 5.23598776e-17, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: VisualSceneNode4
+      position: {x: .145786032, y: -.221727163, z: .11316023}
+      rotation: {x: .0759782046, y: .994191408, z: -.0759780481, w: -.00617231149}
+      scale: {x: .999999762, y: .999999881, z: .999999702}
+      transformModified: 1
+    - name: VisualSceneNode5
+      position: {x: -1.08212352, y: 7.72997737e-08, z: -1.3038516e-08}
+      rotation: {x: -.0161139797, y: .0440957174, z: -.0230972636, w: .998630285}
+      scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: VisualSceneNode6
+      position: {x: -1.16347349, y: 4.74974513e-08, z: 1.49011612e-08}
+      rotation: {x: .332419395, y: -.364128232, z: .398063898, w: .773597598}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: VisualSceneNode7
+      position: {x: -.32937336, y: 7.4505806e-08, z: -9.31322575e-09}
+      rotation: {x: .406377167, y: .752194822, z: -.406376928, w: -.322363883}
+      scale: {x: .999999821, y: .999999881, z: .999999821}
+      transformModified: 1
+    - name: VisualSceneNode8
+      position: {x: .145776287, y: .221725583, z: .113160238}
+      rotation: {x: -.0759776309, y: .994191527, z: .0759777427, w: -.0061721229}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: VisualSceneNode9
+      position: {x: -1.08213282, y: 1.46683306e-07, z: -5.587935e-09}
+      rotation: {x: .0161132403, y: .0440957844, z: .023096351, w: .998630345}
+      scale: {x: .999999821, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: VisualSceneNode10
+      position: {x: -1.16347384, y: 1.64844096e-07, z: -1.86264504e-09}
+      rotation: {x: -.332417518, y: -.364128202, z: -.398061812, w: .773599446}
+      scale: {x: .99999994, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: VisualSceneNode11
+      position: {x: -.329372615, y: -1.49011612e-08, z: 1.76951289e-08}
+      rotation: {x: -.406375408, y: .75219655, z: .406375408, w: -.322363824}
+      scale: {x: .999999702, y: .999999762, z: .999999821}
+      transformModified: 1
+    - name: VisualSceneNode12
+      position: {x: -.361755371, y: 2.7311799e-08, z: -.00716759032}
+      rotation: {x: -1.65806902e-09, y: -.0219617896, z: -7.08906524e-18, w: .99975884}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: VisualSceneNode13
+      position: {x: -.266327173, y: 2.01071693e-08, z: 0}
+      rotation: {x: -5.23598776e-17, y: 1.86425857e-31, z: -3.56047165e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: VisualSceneNode14
+      position: {x: -.448785275, y: 3.38823725e-08, z: 7.4505806e-09}
+      rotation: {x: 1.53931934e-09, y: .0203889031, z: -3.55018274e-15, w: .999792159}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: VisualSceneNode15
+      position: {x: -.0832383558, y: -.0389354341, z: .20059599}
+      rotation: {x: -.420836747, y: -.605392516, z: .406362683, w: .539690435}
+      scale: {x: .999999881, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: VisualSceneNode16
+      position: {x: -.487065703, y: 7.4505806e-08, z: 1.67638063e-08}
+      rotation: {x: .289958656, y: .694769025, z: -.490164101, w: .439271271}
+      scale: {x: .999999881, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: VisualSceneNode17
+      position: {x: .285365969, y: -.567287266, z: .0056725461}
+      rotation: {x: .254808307, y: .110929362, z: -.0210855529, w: .960376382}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: VisualSceneNode18
+      position: {x: .218976036, y: -.439245611, z: .335389346}
+      rotation: {x: .00863473676, y: -.0154381506, z: -.0258564036, w: .999509215}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: VisualSceneNode19
+      position: {x: .151097849, y: -.132761747, z: .240465164}
+      rotation: {x: .402666539, y: .795709729, z: -.403031051, w: .205600813}
+      scale: {x: .999999881, y: .99999994, z: .999999881}
+      transformModified: 1
+    - name: VisualSceneNode20
+      position: {x: -.102391511, y: -2.83122063e-07, z: 1.95577741e-08}
+      rotation: {x: -.136907205, y: -.0117311869, z: -.038488891, w: .989766359}
+      scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: VisualSceneNode21
+      position: {x: -.0672422647, y: 1.93715096e-07, z: 5.21540642e-08}
+      rotation: {x: .310223937, y: .863529384, z: -.31059137, w: -.248215824}
+      scale: {x: .999999821, y: .999999762, z: .999999642}
+      transformModified: 1
+    - name: VisualSceneNode22
+      position: {x: .165384024, y: -.179095536, z: .187034741}
+      rotation: {x: .448865294, y: .77013576, z: -.449274689, w: .0596921034}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: VisualSceneNode23
+      position: {x: -.0981450826, y: 1.1920929e-07, z: 1.49011612e-07}
+      rotation: {x: -.138137609, y: -.0124927163, z: -.0370075554, w: .989642501}
+      scale: {x: 1, y: .99999994, z: .999999821}
+      transformModified: 1
+    - name: VisualSceneNode24
+      position: {x: -.0754895061, y: 1.49011612e-07, z: -8.94069672e-08}
+      rotation: {x: .354886442, y: .858457685, z: -.355163395, w: -.104713924}
+      scale: {x: 1.00000024, y: 1, z: 1.00000024}
+      transformModified: 1
+    - name: VisualSceneNode25
+      position: {x: .188796639, y: -.201891273, z: .0571555831}
+      rotation: {x: .453278273, y: .759057581, z: -.465112627, w: .0451751426}
+      scale: {x: .999999583, y: .999999821, z: .999999821}
+      transformModified: 1
+    - name: VisualSceneNode26
+      position: {x: -.0975524262, y: 1.34110451e-07, z: 1.49011612e-07}
+      rotation: {x: -.0506868176, y: -.0219068844, z: -.0347163491, w: .997870624}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: VisualSceneNode27
+      position: {x: -.0491620861, y: 2.98023224e-07, z: 1.49011612e-08}
+      rotation: {x: .34573698, y: .861680627, z: -.345864683, w: .135462165}
+      scale: {x: 1, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: VisualSceneNode28
+      position: {x: .176606864, y: -.203383297, z: .118437909}
+      rotation: {x: .446595341, y: .773341477, z: -.447321266, w: .0489829481}
+      scale: {x: .999999821, y: .99999994, z: .999999762}
+      transformModified: 1
+    - name: VisualSceneNode29
+      position: {x: -.0890105814, y: -2.68220901e-07, z: -2.38418579e-07}
+      rotation: {x: -.0937259123, y: -.0116938455, z: -.0380638018, w: .994801402}
+      scale: {x: .999999821, y: .999999762, z: .999999642}
+      transformModified: 1
+    - name: VisualSceneNode30
+      position: {x: -.0719086602, y: -4.47034836e-08, z: -1.78813934e-07}
+      rotation: {x: .356482059, y: .86343658, z: -.356715411, w: -.0123263821}
+      scale: {x: 1, y: .999999881, z: .999999762}
+      transformModified: 1
+    - name: VisualSceneNode31
+      position: {x: .122939713, y: .0402113609, z: .151823357}
+      rotation: {x: -.375995994, y: .662221014, z: .434589595, w: .480855882}
+      scale: {x: .999999762, y: .99999994, z: .999999881}
+      transformModified: 1
+    - name: VisualSceneNode32
+      position: {x: -.090457648, y: 4.47034836e-07, z: -2.98023224e-08}
+      rotation: {x: .365330458, y: -.0137516772, z: .0355352834, w: .930097759}
+      scale: {x: .999999821, y: 1, z: .999999881}
+      transformModified: 1
+    - name: VisualSceneNode33
+      position: {x: -.0857517123, y: 7.4505806e-09, z: 4.47034836e-07}
+      rotation: {x: -.150159746, y: .863307178, z: .149850607, w: -.457927465}
+      scale: {x: 1, y: .999999881, z: .999999821}
+      transformModified: 1
+    - name: VisualSceneNode34
+      position: {x: .20194155, y: -.0691837519, z: .0987570882}
+      rotation: {x: -1.68773348e-14, y: -1.29583714e-11, z: -9.44384588e-12, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: VisualSceneNode35
+      position: {x: .109488212, y: -.219623312, z: .167693973}
+      rotation: {x: -1.87404725e-13, y: -1.29582577e-11, z: -9.44377562e-12, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: VisualSceneNode36
+      position: {x: .142683178, y: -.283647209, z: .00283587747}
+      rotation: {x: -2.58042036e-07, y: -1.49641877e-12, z: 3.26461046e-11, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: VisualSceneNode37
+      position: {x: -.186803818, y: 2.44098803e-08, z: .00231829751}
+      rotation: {x: -2.07579978e-06, y: .0944570675, z: 2.08826782e-06, w: .995528936}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: VisualSceneNode38
+      position: {x: -.262216717, y: 1.97955217e-08, z: 3.72484656e-08}
+      rotation: {x: 2.07591529e-06, y: -.0944571272, z: -2.08937604e-06, w: .995528936}
+      scale: {x: .999999821, y: 1, z: .999999821}
+      transformModified: 1
+    - name: VisualSceneNode39
+      position: {x: -.083227627, y: .0389364362, z: .200594068}
+      rotation: {x: .420836449, y: -.605392814, z: -.406362563, w: .539690435}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: VisualSceneNode40
+      position: {x: -.487062871, y: 4.47034836e-08, z: 2.44006515e-07}
+      rotation: {x: -.289963454, y: .694766104, z: .490161836, w: .439275116}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: VisualSceneNode41
+      position: {x: .285356879, y: .567289948, z: .00567406602}
+      rotation: {x: -.254810035, y: .110925689, z: .0210856851, w: .960376382}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: VisualSceneNode42
+      position: {x: .218968749, y: .439245611, z: .335388422}
+      rotation: {x: -.00863677077, y: -.0154425018, z: .025863206, w: .999508977}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: VisualSceneNode43
+      position: {x: .15111351, y: .13275902, z: .240460113}
+      rotation: {x: -.402721226, y: .795655489, z: .403085828, w: .205596089}
+      scale: {x: 1, y: .999999821, z: .999999881}
+      transformModified: 1
+    - name: VisualSceneNode44
+      position: {x: -.102389693, y: -8.94069672e-08, z: -7.91624188e-08}
+      rotation: {x: .13701278, y: -.0117276525, z: .0384913273, w: .989751697}
+      scale: {x: 1, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: VisualSceneNode45
+      position: {x: -.067240715, y: -1.49011612e-07, z: -8.94069672e-08}
+      rotation: {x: -.310209543, y: .863532603, z: .310577065, w: -.248240814}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: VisualSceneNode46
+      position: {x: .165386572, y: .179095641, z: .18703188}
+      rotation: {x: -.448849618, y: .770151377, z: .449259579, w: .0597221591}
+      scale: {x: .999999881, y: .999999762, z: .999999762}
+      transformModified: 1
+    - name: VisualSceneNode47
+      position: {x: -.0981470048, y: 1.1920929e-07, z: -8.94069672e-08}
+      rotation: {x: .138090238, y: -.0124744326, z: .0370131694, w: .989649177}
+      scale: {x: 1, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: VisualSceneNode48
+      position: {x: -.0754923373, y: -2.68220901e-07, z: -1.78813934e-07}
+      rotation: {x: -.354890615, y: .858457506, z: .355167896, w: -.104685821}
+      scale: {x: .99999994, y: 1, z: .999999762}
+      transformModified: 1
+    - name: VisualSceneNode49
+      position: {x: .188800141, y: .201887086, z: .0571550019}
+      rotation: {x: -.453278422, y: .759053111, z: .465120941, w: .0451632924}
+      scale: {x: .999999881, y: .999999821, z: 1.00000012}
+      transformModified: 1
+    - name: VisualSceneNode50
+      position: {x: -.0975582525, y: -3.42726707e-07, z: -2.98023224e-08}
+      rotation: {x: .050824672, y: -.0219163354, z: .034701474, w: .997863948}
+      scale: {x: .999999821, y: .99999994, z: .999999881}
+      transformModified: 1
+    - name: VisualSceneNode51
+      position: {x: -.0491640158, y: -1.63912773e-07, z: -4.47034836e-08}
+      rotation: {x: -.345645249, y: .861767471, z: .345772594, w: .13537927}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: VisualSceneNode52
+      position: {x: .176613465, y: .203382343, z: .118436553}
+      rotation: {x: -.446627319, y: .773290813, z: .447382659, w: .0489305668}
+      scale: {x: .999999821, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: VisualSceneNode53
+      position: {x: -.0890094861, y: -1.1920929e-07, z: 2.08616257e-07}
+      rotation: {x: .0939985737, y: -.0117085064, z: .0380454548, w: .994776189}
+      scale: {x: 1.00000012, y: 1, z: 1.00000024}
+      transformModified: 1
+    - name: VisualSceneNode54
+      position: {x: -.0719174221, y: -1.49011612e-08, z: 5.96046448e-08}
+      rotation: {x: -.356347263, y: .863548517, z: .35657692, w: -.0123929093}
+      scale: {x: 1.00000012, y: 1, z: 1.00000036}
+      transformModified: 1
+    - name: VisualSceneNode55
+      position: {x: .122938409, y: -.0402198322, z: .151823804}
+      rotation: {x: .375996321, y: .66222173, z: -.434591889, w: .480852485}
+      scale: {x: 1, y: .999999881, z: .999999821}
+      transformModified: 1
+    - name: VisualSceneNode56
+      position: {x: -.090456754, y: 3.12924385e-07, z: -1.63912773e-07}
+      rotation: {x: -.365349799, y: -.0137216346, z: -.0355475582, w: .930090129}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: VisualSceneNode57
+      position: {x: -.0857652575, y: 1.68569386e-07, z: -2.98023224e-07}
+      rotation: {x: .150137499, y: .863351345, z: -.14982833, w: -.457858771}
+      scale: {x: .99999994, y: .99999994, z: 1}
+      transformModified: 1
+    - name: VisualSceneNode58
+      position: {x: .201948136, y: .0691830218, z: .098758474}
+      rotation: {x: -3.042109e-14, y: -1.14952449e-11, z: 3.08931734e-11, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: VisualSceneNode59
+      position: {x: .10948658, y: .219620854, z: .167694196}
+      rotation: {x: 1.4010631e-13, y: -1.14951312e-11, z: 3.0893104e-11, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: VisualSceneNode60
+      position: {x: .142674729, y: .283652514, z: .00283595431}
+      rotation: {x: 2.67017185e-07, y: -8.64988376e-12, z: 4.35116283e-11, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lights
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106709}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: VisualSceneNode61
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .050999999
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 
